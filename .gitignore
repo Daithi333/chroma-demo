@@ -2,5 +2,7 @@ __pycache__/
 
 .idea/
 
-data/
 chromadb/
+
+data/*
+!data/.gitkeep
